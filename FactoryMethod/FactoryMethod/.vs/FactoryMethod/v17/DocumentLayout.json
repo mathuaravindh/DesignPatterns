@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\product\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:product\\itransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\product\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:product\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\product\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:product\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\factory\\logisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:factory\\logisticsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\factory\\truckfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:factory\\truckfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|c:\\users\\maravindh\\onedrive - xome\\documents\\my files\\learning\\designpatterns\\factorymethod\\factorymethod\\factory\\shipfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3B9780-365B-4E8E-8CED-2B23126E12AD}|FactoryMethod.csproj|solutionrelative:factory\\shipfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITransport.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Product\\ITransport.cs",
+              "RelativeDocumentMoniker": "Product\\ITransport.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Product\\ITransport.cs",
+              "RelativeToolTip": "Product\\ITransport.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:19:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Product\\Ship.cs",
+              "RelativeDocumentMoniker": "Product\\Ship.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Product\\Ship.cs",
+              "RelativeToolTip": "Product\\Ship.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:18:54.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Product\\Truck.cs",
+              "RelativeDocumentMoniker": "Product\\Truck.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Product\\Truck.cs",
+              "RelativeToolTip": "Product\\Truck.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:18:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShipFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Factory\\ShipFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\ShipFactory.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Factory\\ShipFactory.cs",
+              "RelativeToolTip": "Factory\\ShipFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:16:33.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TruckFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Factory\\TruckFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\TruckFactory.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Factory\\TruckFactory.cs",
+              "RelativeToolTip": "Factory\\TruckFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:16:01.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogisticsFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Factory\\LogisticsFactory.cs",
+              "RelativeDocumentMoniker": "Factory\\LogisticsFactory.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Factory\\LogisticsFactory.cs",
+              "RelativeToolTip": "Factory\\LogisticsFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:14:51.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MAravindh\\OneDrive - Xome\\Documents\\My Files\\Learning\\DesignPatterns\\FactoryMethod\\FactoryMethod\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T08:12:31.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

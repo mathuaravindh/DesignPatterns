@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FactoryMethod
-build_property.ProjectDir = C:\Users\MAravindh\OneDrive - Xome\Documents\My Files\Learning\DesignPatterns\FactoryMethod\FactoryMethod\
+build_property.ProjectDir = C:\Users\MAravindh\OneDrive - Xome\Documents\My Files\Learning\Git\DesignPatterns\FactoryMethod\FactoryMethod\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
